@@ -4,20 +4,20 @@ layout: default
 
 # Big Scale Projects
 FRC
-UAV (underwater unmanned vehicle)
-.
-.
+UAV (underwater unmanned vehicle) <br>
+. <br>
+.  <br>
 .
 
 # Middle Scale Projects
-Erasmus
-TÜBİTAK 2204A (2024-2025)
-.
-.
+Erasmus <br>
+TÜBİTAK 2204A (2024-2025) <br>
+. <br>
+. <br>
 .
 
 # Small Scale Projects
-Aws Car project
-.
-.
+Aws Car project <br>
+. <br>
+. <br>
 .
