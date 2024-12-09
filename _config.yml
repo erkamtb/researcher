@@ -1,15 +1,15 @@
-title: Researcher
-url: "https://ankitsultana.com"
+title: Erkam Tuna Bayoğlu
+url: "https://erkamtb.github.io"
 baseurl: "/researcher"
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
+ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
 footer: yes
 footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_text: "Page design by Ankit Sultana Edited By erkamtb"
 
 sass:
     style: compressed
@@ -18,6 +18,8 @@ sass:
 nav:
  - name: "About"
    link: "/researcher/"
+ - name: "My Projects"
+   link: "/projects" 
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
