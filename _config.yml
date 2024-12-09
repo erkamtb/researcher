@@ -3,13 +3,13 @@ url: "https://erkamtb.github.io"
 baseurl: "/researcher"
 
 markdown: kramdown
-ins_logo: "./bits-logo.png"
+#ins_logo: #"./bits-logo.png"
 
 tracking_id: #
 
 footer: yes
 footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana Edited By erkamtb"
+footer_text: "Page design by Ankit Sultana, Edited By erkamtb"
 
 sass:
     style: compressed
