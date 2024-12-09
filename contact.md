@@ -21,7 +21,7 @@ is_contact: true
     calendar.schedulingButton.load({
       url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ3Un8ex-yhX_4s7aRKGaF0vYEa-5o4qXC9gfKc_wu2CqzduiEpSM6wjsgmxnCpBtBL3TyWLK_kL?gv=true',
       color: '#009688',
-      label: "Create a meet",
+      label: "Create a Goole Meet",
       target,
     });
   });
@@ -30,5 +30,4 @@ is_contact: true
 <!-- end Google Calendar Appointment Scheduling -->
 
 1. [Linkedin](https://www.linkedin.com/in/erkamtb)
-2. [Twitter](#)
-3. [Google+](#)
+2. [Github](https://github.com/erkamtb)
