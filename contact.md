@@ -3,24 +3,32 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [erkamtbayoglu+resume@gmail.com](mailto:erkamtbayoglu+resume@gmail.com)
 
-* Phone: [+91-123123](tel:+91-123123)
-
----
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
+* Phone: [+90-5495352903](tel:+90-5495352903)
 
 ---
 
 ## Social
 
-1. [Facebook](#)
+<!-- Google Calendar Appointment Scheduling begin -->
+<link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
+<script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
+<script>
+(function() {
+  var target = document.currentScript;
+  window.addEventListener('load', function() {
+    calendar.schedulingButton.load({
+      url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ3Un8ex-yhX_4s7aRKGaF0vYEa-5o4qXC9gfKc_wu2CqzduiEpSM6wjsgmxnCpBtBL3TyWLK_kL?gv=true',
+      color: '#009688',
+      label: "Create a meet",
+      target,
+    });
+  });
+})();
+</script>
+<!-- end Google Calendar Appointment Scheduling -->
+
+1. [Linkedin](https://www.linkedin.com/in/erkamtb)
 2. [Twitter](#)
 3. [Google+](#)
