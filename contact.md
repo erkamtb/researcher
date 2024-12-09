@@ -20,7 +20,7 @@ is_contact: true
   window.addEventListener('load', function() {
     calendar.schedulingButton.load({
       url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ3Un8ex-yhX_4s7aRKGaF0vYEa-5o4qXC9gfKc_wu2CqzduiEpSM6wjsgmxnCpBtBL3TyWLK_kL?gv=true',
-      color: '#009688',
+      color: '#95c4bf',
       label: "Create a Goole Meet",
       target,
     });
