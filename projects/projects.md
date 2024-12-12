@@ -3,21 +3,21 @@ layout: default
 ---
 
 # 2025
-FRC ([First Robotics Competition](/resume/projects/2025/frc)) <br>
-UUV (underwater unmanned vehicle) <br>
-. <br>
-.  <br>
-.
-
+. FRC ([First Robotics Competition](/resume/projects/2025/frc)) <br>
+. UUV-TEKNOFEST (Underwater Unmanned Vehicle Competition) <br>
+. İsim bulunca yazarız (Erasmus +) <br>
+. isim bulunca yazarız (TÜBİTAK 2204A) <br>
+. PhotoLaser ([Self Project](/resume/projects/2025/photolaser)) <br>
+. Aws Car project (self Project)<br>
+. Xynaptics (internship projects)<br>
+. Chemistry (self project) <br>
+. Mathematics (self Project)<br>
+<br>
 # 2024
-Erasmus <br>
-TÜBİTAK 2204A (2024-2025) <br>
-. <br>
-. <br>
-.
-
+. FRC ([First Robotics Competition](/resume/projects/2025/frc)) <br>
+. UUV-TEKNOFEST (Underwater Unmanned Vehicle Competition) <br>
+. UAV-TEKNOFEST (Unmanned Aerial Vehicle Competition) <br>
+. PhotoLaser ([Self Project](/resume/projects/2025/photolaser)) <br>
+<br>
 # 2023
-Aws Car project <br>
-. <br>
-. <br>
-.
+. UUV-TEKNOFEST (Underwater Unmanned Vehicle Competition) <br>
