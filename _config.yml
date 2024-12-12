@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/resume/"
+   link: "/resume/resume"
  - name: "My Projects"
    link: "projects" 
  - name: "Resume"
