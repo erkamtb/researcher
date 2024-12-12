@@ -21,6 +21,6 @@ nav:
  - name: "My Projects"
    link: "projects/projects" 
  - name: "Resume"
-   link: "resume.pdf"
+   link: "/resume/resume.pdf"
  - name: "Contact"
-   link: "contact"
+   link: "/resume/contact"
