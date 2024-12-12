@@ -4,8 +4,8 @@ is_contact: true
 ---
 
 * Email: [erkamtbayoglu+resume@gmail.com](mailto:erkamtbayoglu+resume@gmail.com)
-
-* Phone: [+90-5495352903](tel:+90-5495352903)
+<!-- 
+* Phone: [+90-5495352903](tel:+90-5495352903) -->
 
 ---
 
