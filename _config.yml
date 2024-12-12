@@ -1,6 +1,6 @@
 title: Erkam Tuna Bayoğlu
 url: "https://erkamtb.github.io"
-baseurl: "/resume"
+baseurl: "/resume/resume"
 
 markdown: kramdown
 #ins_logo: #"./bits-logo.png"
