@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Big Scale Projects
-[FRC](projects/big_sized_projects/frc) <br>
+[FRC](big_sized_projects/frc) <br>
 UUV (underwater unmanned vehicle) <br>
 . <br>
 .  <br>
