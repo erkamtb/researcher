@@ -3,14 +3,14 @@ layout: default
 ---
 
 # Big Scale Projects
-FRC
-UAV (underwater unmanned vehicle) <br>
+[FRC](projects/frc) <br>
+UUV (underwater unmanned vehicle) <br>
 . <br>
 .  <br>
 .
 
 # Middle Scale Projects
-Erasmus 
+Erasmus <br>
 TÜBİTAK 2204A (2024-2025) <br>
 . <br>
 . <br>
