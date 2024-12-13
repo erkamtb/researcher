@@ -4,7 +4,7 @@ layout: default
 
 # 2025
 . FRC ([First Robotics Competition](/resume/projects/2025/frc)) <br>
-. UUV-TEKNOFEST (Underwater Unmanned Vehicle Competition) <br>
+. UUV-TEKNOFEST ([Underwater Unmanned Vehicle Competition](/resume/projects/2025/uuv)) <br>
 . PhotoLaser ([Self Project](/resume/projects/2025/photolaser)) <br>
 . placeholder (Erasmus +) <br>
 . placeholder (TÜBİTAK 2204A) <br>
