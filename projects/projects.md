@@ -16,9 +16,9 @@ layout: default
 <br>
 # 2024
 . FRC ([First Robotics Competition](/resume/projects/2025/frc)) <br>
-. UUV-TEKNOFEST (Underwater Unmanned Vehicle Competition) <br>
+. UUV-TEKNOFEST ([Underwater Unmanned Vehicle Competition](/resume/projects/2025/uuv)) <br>
 . UAV-TEKNOFEST (Unmanned Aerial Vehicle Competition) <br>
 . PhotoLaser ([Self Project](/resume/projects/2025/photolaser)) <br>
 <br>
 # 2023
-. UUV-TEKNOFEST (Underwater Unmanned Vehicle Competition) <br>
+. UUV-TEKNOFEST ([Underwater Unmanned Vehicle Competition](/resume/projects/2025/uuv)) <br>
