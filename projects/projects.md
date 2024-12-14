@@ -7,7 +7,7 @@ layout: default
 . UUV-TEKNOFEST ([Underwater Unmanned Vehicle Competition](/resume/projects/uuv)) <br>
 . PhotoLaser ([Self Project](/resume/projects/photolaser)) <br>
 . Erasmus (Erasmus +) <br>
-. Censorship Extension (TÜBİTAK 2204A) <br>
+. Detection of Hate Speech on the Web Using Artificial Intelligence ([TÜBİTAK 2204A]()) <br>
 . Aws Car project (self Project)<br>
 . Xynaptics (internship projects)<br>
 . Chemistry (self project) <br>
