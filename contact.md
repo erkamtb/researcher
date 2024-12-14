@@ -3,7 +3,8 @@ layout: default
 is_contact: true
 ---
 
-* Email: [erkamtbayoglu+resume@gmail.com](mailto:erkamtbayoglu+resume@gmail.com)
+* Personal Email: [erkamtbayoglu+resume@gmail.com](mailto:erkamtbayoglu+resume@gmail.com) (I'm here frequently)
+* School Email: [erkam.bayoglu@tubitak.gov.tr](mailto:erkam.bayoglu@tubitak.gov.tr) (I rarely check here)
 
 ---
 
