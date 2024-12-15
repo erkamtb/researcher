@@ -10,7 +10,7 @@ Hi! I’m a 10th-grade student at TÜBİTAK Science High School (TÜBİTAK Fen L
 
 Over the years, I’ve been actively involved in robotics competitions like FRC and Teknofest, where I’ve led teams and contributed as the programming lead. My experience mainly includes robotic programming, CAD (mainly Onshape and SolidWorks), the foundations of mechanics and electronics, and 3D printing parts using FDM and SLA [printers](printers_iuse). These experiences have taught me valuable skills in teamwork, leadership, and technical problem-solving.
 
-In the future, I aspire to study computer science and engineering at a leading university, where I can continue making robots and developing new applications to help humanity. Outside of academics, I enjoy gaming, exploring new technologies, working on personal programming and robotics projects, and teaching new things to others.
+In the future, I aspire to study computer science and engineering at a leading university, where I can continue making robots and developing new applications to help humanity. Outside of academics, I enjoy cycling, gaming, exploring new technologies, working on personal programming and robotics projects, and teaching new things to others.
 
 ## Programming languages I use
 #### General Purpose Languages
