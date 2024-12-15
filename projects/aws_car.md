@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Remote-Controlled Car Using Cloud (Final Project of Bootcamp)
+## Remote-Controlled Car Using Cloud (Final Project of Bootcamp)
 
 I developed a car that can be controlled remotely over the internet by utilizing AWS cloud services. For the project, I used JavaScript, HTML, and CSS to build the website interface. On the cloud side, I implemented AWS IoT, Lambda, VPC, and API Gateway, while MQTT was used as the communication protocol.<br>
 <br>
