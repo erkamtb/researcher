@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## What is FRC?
+## FRC (First Robotics Competition)
 
 FRC, or the FIRST Robotics Competition, is the largest robotics competition designed exclusively for high school students. Organized by FIRST (For Inspiration and Recognition of Science and Technology), FRC presents a new challenge and game field every year. Teams from around the world compete to build the most efficient, fast, and reliable robots.<br>
 <br>

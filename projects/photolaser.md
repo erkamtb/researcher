@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# PhotoLaser (Self Project)
+## PhotoLaser (Self Project)
 <!-- In 9th grade, I collaborated with my physics teacher to create a prototype for a photogate physics experiment setup. -->
 Since commercial photogates are often too expensive for schools, I designed a cost-effective alternative using phototransistors and 5V red lasers. For the track where the object moves, we used photoblock material because it is easy to cut and assemble. I programmed an Arduino to measure the time between the triggering of two phototransistors. Using the fixed distance between the sensors, the Arduino calculates the average speed of the object. Now I plan to enhance the design by adding a railway system with small, specialized trains. With these enhancements product will be able to demonstrate collisions.
 
