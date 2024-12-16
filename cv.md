@@ -25,4 +25,3 @@ November 2024 - Present<br>
 **Xynaptics Firm / Programmer**<br>
 Developing AI products for client firms, using mainly python, APIs and databases<br>
 July 2024 - Present<br>
-ll
