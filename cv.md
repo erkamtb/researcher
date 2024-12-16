@@ -25,3 +25,22 @@ November 2024 - Present<br>
 **Xynaptics Firm / Programmer**<br>
 Developing AI products for client firms, using mainly python, APIs and databases<br>
 July 2024 - Present<br>
+
+## Programming languages I use
+#### General Purpose Languages
+Java, Python, C++, Kotlin
+#### Web Development
+PHP, Javascript, HTML, CSS
+#### Database
+MYSQLi, MSSQL Server, Amazon DynamoDB, Amazon Aurora 
+## Certificates and Awards
+FRC Marmara Regional Winner <br>
+Teknofest UUV Finalist ([2023](certificates/sagan_finals_2023.pdf)/[2024](certificates/sagan_finals_2024.pdf)) <br>
+AWS Miuul Bootcamp ([link](certificates\aws_certificate.png)) <br>
+Caribou Contest ([World 1st](certificates/caribou.jpg)/[Caribou Cup](certificates/carrcibou_cup.jpg)) <br>
+Türkiye Math Competition ([silver medal](certificates/tmyaka_marked.JPG)/[finalist](certificates/tmy_finalist.jpg)) <br>
+TALES Math Competition ([Finalist](certificates/tales.jpg)) <br>
+URFODU Math Competition ([Silver Medal](certificates/urfodu.jpg)) <br>
+FLL 2020 Researcher Award ([certificate](certificates/fll.jpg)/[a photo from award](certificates/fll2.jpg)) <br>
+TÜBİTAK 4004 Certificate of Participation ([link](certificates/habitat.jpg)) <br>
+Codeweek Certificate of Participation ([link](certificates/codeweek.jpg))
