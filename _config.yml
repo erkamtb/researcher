@@ -1,6 +1,6 @@
 title: Erkam Tuna Bayoğlu
 url: "http://erkamtb.tech"
-baseurl: "/resume"
+baseurl: ""
 
 markdown: kramdown
 #ins_logo: #"./bits-logo.png"
