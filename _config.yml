@@ -17,10 +17,10 @@ sass:
 
 nav:
  - name: "About"
-   link: "/resume/"
+   link: "/"
  - name: "My Projects"
-   link: "/resume/projects/projects" 
+   link: "/projects/projects" 
  - name: "Resume"
-   link: "/resume/cv"
+   link: "/cv"
  - name: "Contact"
-   link: "/resume/contact"
+   link: "/contact"
