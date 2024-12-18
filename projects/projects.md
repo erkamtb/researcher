@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# 2025
+# 2024
 . FRC ([First Robotics Competition](/projects/frc)) <br>
 . UUV-TEKNOFEST ([Underwater Unmanned Vehicle Competition](/projects/uuv)) <br>
 . PhotoLaser ([Self Project](/projects/photolaser)) <br>
@@ -14,11 +14,11 @@ layout: default
 . Mathematics (self Project)<br>
 . Sweet Managers ([PMI-School Project](/projects/pmi)) <br>
 <br>
-# 2024
+# 2023
 . FRC ([First Robotics Competition](/projects/frc)) <br>
 . UUV-TEKNOFEST ([Underwater Unmanned Vehicle Competition](/projects/uuv)) <br>
 . UAV-TEKNOFEST (Unmanned Aerial Vehicle Competition) <br>
 . PhotoLaser ([Self Project](/projects/photolaser)) <br>
 <br>
-# 2023
+# 2022
 . UUV-TEKNOFEST ([Underwater Unmanned Vehicle Competition](/projects/uuv)) <br>

@@ -1,5 +1,5 @@
 title: Erkam Tuna Bayoğlu
-url: "http://erkamtb.tech"
+url: "https://erkamtb.tech"
 baseurl: ""
 
 markdown: kramdown
@@ -21,6 +21,6 @@ nav:
  - name: "My Projects"
    link: "/projects/projects" 
  - name: "Resume"
-   link: "/cv"
+   link: "/resume"
  - name: "Contact"
    link: "/contact"
