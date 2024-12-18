@@ -27,21 +27,26 @@ Studied on encoders, ROS (specifically Noetic), and STM32 coding using STM32Cube
 October 2023 - May 2024<br>
 <br>
 
-## Programming languages I use
-#### General Purpose Languages
-Java, Python, C++, Kotlin
-#### Web Development
-PHP, Javascript, HTML, CSS
-#### Database
-MYSQLi, MSSQL Server, Amazon DynamoDB, Amazon Aurora 
+## Technical Skills
+**General Purpose Languages**<br>
+Proficient: Java, Python<br>
+Familiar: C++, Kotlin<br><br>
+**Web Development**<br>
+Familiar: PHP, Javascript, HTML, CSS<br><br>
+**Database**<br>
+Proficient: MYSQLi, Amazon DynamoDB<br>
+Familiar: MSSQL Server, , Amazon Aurora<br><br>
+**CAD/CAM**<br>
+Familiar: Onshape, SolidWorks
+
 ## Certificates and Awards
+AWS Miuul Bootcamp ([link](certificates\aws_certificate.png)) <br>
 FRC Marmara Regional Winner <br>
 Teknofest UUV Finalist ([2023](certificates/sagan_finals_2023.pdf)/[2024](certificates/sagan_finals_2024.pdf)) <br>
-AWS Miuul Bootcamp ([link](certificates\aws_certificate.png)) <br>
+TÜBİTAK 4004 Certificate of Participation ([link](certificates/habitat.jpg)) <br>
+URFODU Math Competition ([Silver Medal](certificates/urfodu.jpg)) <br>
+FLL 2020 Researcher Award ([certificate](certificates/fll.jpg)/[a photo from award](certificates/fll2.jpg)) <br>
 Caribou Contest ([World 1st](certificates/caribou.jpg)/[Caribou Cup](certificates/carrcibou_cup.jpg)) <br>
 Türkiye Math Competition ([silver medal](certificates/tmyaka_marked.JPG)/[finalist](certificates/tmy_finalist.jpg)) <br>
 TALES Math Competition ([Finalist](certificates/tales.jpg)) <br>
-URFODU Math Competition ([Silver Medal](certificates/urfodu.jpg)) <br>
-FLL 2020 Researcher Award ([certificate](certificates/fll.jpg)/[a photo from award](certificates/fll2.jpg)) <br>
-TÜBİTAK 4004 Certificate of Participation ([link](certificates/habitat.jpg)) <br>
 Codeweek Certificate of Participation ([link](certificates/codeweek.jpg))
