@@ -12,7 +12,6 @@ layout: default
 . Erasmus (Erasmus +) <br>
 . Chemistry (self project) <br>
 . Mathematics (self Project)<br>
-. Sweet Managers ([PMI-School Project](/projects/pmi)) <br>
 <br>
 # 2023
 . FRC ([First Robotics Competition](/projects/frc)) <br>
